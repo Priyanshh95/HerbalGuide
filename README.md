@@ -1,39 +1,44 @@
-# 🌿 HerbalGuide
-HerbalGuide is a simple and informative web application designed to raise awareness about the benefits of herbal and natural remedies. It features an elegant frontend with multiple pages that provide insights into herbal services, educational blogs, and contact options.
+# 🌿 Herbal Guide
 
+Herbal Guide is a user-friendly web application dedicated to promoting awareness about Ayurveda and the benefits of herbal and natural remedies. The site provides educational resources, a searchable database of herbal solutions for common ailments, and practical wellness tips—all in a clean, modern interface.
 
-# 🚀 Features
-**Homepage** – Clean and welcoming layout introducing HerbalGuide.
+## ✨ Features
+- **Homepage:** Introduction to Herbal Guide and Ayurveda.
+- **AyurSearch:** Search for medicinal plants based on selected diseases and symptoms, with instant results and detailed information.
+- **Herbal Remedies:** Learn about various herbal solutions and their uses.
+- **Wellness Tips:** Practical advice for maintaining a healthy lifestyle using Ayurvedic principles.
+- **Blog:** Educational articles on Ayurveda, herbal medicine, and holistic wellness.
+- **About Me:** Information about the creator, Priyanshu Bansal.
+- **Contact Us:** Contact form and email for feedback or queries.
 
-**About Us** – Describes the mission and vision of the project.
+## 🗂️ Project Structure
+```
+HerbalGuide/
+  ├── about.html         # About Me page
+  ├── app.js             # Main JavaScript logic (AyurSearch, etc.)
+  ├── blog.html          # Blog articles
+  ├── contactUs.html     # Contact form and info
+  ├── design.css         # Main site-wide styles
+  ├── index.html         # Homepage
+  ├── README.md          # Project documentation
+  ├── service1.html      # AyurSearch feature
+  ├── service2.html      # Herbal Remedies
+  ├── service3.html      # Wellness Tips
+  ├── style.css          # Additional styles for features
+```
 
-**Services Pages** – Includes detailed sections for:
+## 🚀 How to Run
+1. **Download or clone the repository.**
+2. **Open `index.html` in your web browser.**
+   - No installation or server required; all features work offline.
+3. **Navigate using the menu to explore features.**
 
-Herbal Remedies
+> For best results, use a modern browser (Chrome, Edge, Firefox, etc.).
 
-Organic Therapies
+## 👤 Author
+**Priyanshu Bansal**  
+Email: priyanshub243@gmail.com
 
-Natural Healing
-
-**Blog** – Engaging educational content related to herbal and ayurvedic practices.
-
-**Contact Us** – Allows users to reach out for queries or feedback.
-
-**Project Showcase** – A dedicated section displaying additional content or extensions.
-
-
-# 🛠️ Tech Stack
-**Frontend**: HTML5, CSS3, JavaScript
-
-**Styling**: Custom CSS (style.css, design.css)
-
-**Scripting**: JavaScript (app.js)
-
-**Responsive**: Designed to adapt across screen sizes
-
-**Styling**: Custom CSS (style.css, design.css)
-
-**Scripting**: JavaScript (app.js)
-
-Responsive: Designed to adapt across screen sizes
+---
+For questions, suggestions, or feedback, please use the contact form on the website or email directly.
 
